@@ -4,58 +4,58 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2017-05-17T15:49:56-00:00</lastmod>
-<changefreq>hourly</changefreq>
+<loc>https://by-the-water.github.io/</loc>
+<lastmod>2017-05-17T16:22:49-00:00</lastmod>
+<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2017-05-17T15:49:56-00:00</lastmod>
-<changefreq>hourly</changefreq>
+<loc>https://by-the-water.github.io/archives.html</loc>
+<lastmod>2017-05-17T16:22:49-00:00</lastmod>
+<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2017-05-17T15:49:56-00:00</lastmod>
-<changefreq>hourly</changefreq>
+<loc>https://by-the-water.github.io/tags.html</loc>
+<lastmod>2017-05-17T16:22:49-00:00</lastmod>
+<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2017-05-17T15:49:56-00:00</lastmod>
-<changefreq>hourly</changefreq>
+<loc>https://by-the-water.github.io/categories.html</loc>
+<lastmod>2017-05-17T16:22:49-00:00</lastmod>
+<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/about.html</loc>
-<lastmod>2017-05-17T15:49:56-00:00</lastmod>
+<loc>https://by-the-water.github.io/pages/about.html</loc>
+<lastmod>2017-05-17T16:22:49-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/posts/2017/05/16/Setting-up-a-jupyter-notebook-server-on-paperspace.html</loc>
+<loc>https://by-the-water.github.io/posts/2017/05/16/Setting-up-a-jupyter-notebook-server-on-paperspace.html</loc>
 <lastmod>2017-05-16T22:20:00-05:00</lastmod>
 <changefreq>always</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>/category/programming.html</loc>
+<loc>https://by-the-water.github.io/category/programming.html</loc>
 <lastmod>2017-05-16T22:20:00-05:51</lastmod>
-<changefreq>hourly</changefreq>
+<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/by-the-water.html</loc>
+<loc>https://by-the-water.github.io/author/by-the-water.html</loc>
 <lastmod>2017-05-16T22:20:00-05:51</lastmod>
-<changefreq>hourly</changefreq>
+<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
